@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Dasha</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center"> I'm a Python Developer. I'm from Russia, living in Ekaterinburg. 🇷🇺</h3>
 
 <!--
 **dsgurieva/dsgurieva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

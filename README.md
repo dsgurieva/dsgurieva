@@ -1,8 +1,9 @@
-<h1 align="center">Hi there, I'm Daria🌱</h1>
+<h1 align="center">Hi there, I'm <a href="https://t.me/Daria_Gurieva" target="_blank">Daria🌱</h1>
 <h3 align="center">I'm a Python Developer.</h3>
 
 
 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)

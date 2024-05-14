@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm <a href="https://t.me/Daria_Gurieva" target="_blank">Daria🌱</h1>
-<h3 align="center">I'm a Python Developer.</h3>
 
 
 
